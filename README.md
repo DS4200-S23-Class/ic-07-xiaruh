@@ -11,14 +11,14 @@ Clone this repo and work locally. Be sure to push the final version of your code
 
 ## Instructions
 
-1. Resources to support this assignment are provided below in the Resources section.  
+1. Resources to support this assignment are provided below in the Resources section.
 
-1. Create a GitHub Page for your repo and add the link to it above where you see `[insert your clickable hyperlink here]`. 
+1. Create a GitHub Page for your repo and add the link to it above where you see `[insert your clickable hyperlink here]`.
 
 1. Using the provided index.html, d3.js libray, an external CSS file (no styling should be included in your html file), and an external js file (no js code should be included in your html file), please do the following: 
    - Title your webpage "ic-07". 
    - Add a heading that says "D3 Part 1".
-   - Use d3 to plot the following dataset along a labeled vertical axis: data = [55000, 48000, 27000, 66000, 90000].  
+   - Use d3 to plot the following dataset along a labeled vertical axis: data = [55000, 48000, 27000, 66000, 90000].
 
 1. Add a header to the bottom of your page. The header should say "Acknowledgements". Under this header, list of the resources you used to complete this assignment.
 
