@@ -31,7 +31,7 @@ FRAME2.selectAll('points')
 				return (Y_SCALE(d) + MARGINS.top);
 			})
 			.attr('cx', MARGINS.bottom)
-			.attr('r', 20)
+			.attr('r', 13)
 			.attr('class', 'point');
 
 // add an axis
